@@ -571,9 +571,3 @@ Wickham, H., Miller, E., & Smith, D. (2023). *haven: Import and export 'SPSS', '
 
 - [GitHub Repository](https://github.com/kebachez/M11-CFA-Study-Note.git)
 - [GitHub Pages Website](https://kebachez.github.io/M11-CFA-Study-Note/)
-
-## Session Information
-
-```{r}
-sessionInfo()
-```
